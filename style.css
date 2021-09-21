@@ -1,0 +1,41 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+   text-align: center;
+}
+h1{
+    font-size: 40px;
+}
+
+
+.container{
+    margin-left: 35%;
+    margin-right: auto;
+    /* background-color: rgb(64, 195, 119); */
+    width: 30%;
+    text-align: center;
+}
+
+#wrapper{
+    display: flex;
+}
+form{
+    text-align: center;
+}
+
+
+#X{
+    display: flex;
+    flex-direction: column;
+}
+#X div {
+    display: flex;
+}
+input{
+  width: 80px;
+}
+label{
+    background-color: rgb(67, 127, 179);
+    width: 60px;
+}
